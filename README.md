@@ -2,8 +2,9 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [General Adversarial Network: HuskyBot](https://discord.gg/nZK3fMkdfc)
+  - [General Adversarial Network: HuskyBot](https://github.com/rexchao1/husky_bot.git)
     - Discord Server Bot
+    - [Add it to your Server!](https://discord.gg/nZK3fMkdfc)
    
 - <b>Unity Game Design</b>
   - [PC Game: Illuminatey](https://github.com/Aldicodi/Iluminatey)
