@@ -1,11 +1,26 @@
-<h1>Hi, I'm Rex! <br/>
+<h1>Hi, I'm Rex!</h1>
 <h2>👨‍💻 Projects:</h2>
 
+- <b>AI Front Desk</b>
+  - [Minnie: Insurance Calling](https://github.com/renuminnie/minnie-insurance-calls)
+    - Auto-dials dental insurance payers and bridges in staff once a rep picks up
+    - Local-first, human-in-the-loop
+    - Built with a team
+  - [Minnie: Payer Portals](https://github.com/renuminnie/minnie-payer-portals)
+    - Automates insurance eligibility checks across payer portals
+    - Delta, MetLife, Cigna, Ameritas
+    - Built with a team
+
+- <b>Personal AI Agent</b>
+  - Hermes: Family Assistant
+    - Solo agent that helps manage my family's calendar, events, and day-to-day
+    - Built on my own Hermes agent framework
+
 - <b>Machine Learning</b>
-  - [General Adversarial Network: HuskyBot](https://github.com/rexchao1/husky_bot.git)
+  - [Generative Adversarial Network: HuskyBot](https://github.com/rexchao1/husky_bot.git)
     - Discord Server Bot
     - [Add it to your Server!](https://discord.gg/nZK3fMkdfc)
-   
+
 - <b>Unity Game Design</b>
   - [PC Game: Illuminatey](https://github.com/Aldicodi/Iluminatey)
     - Game to encourage sustainability
@@ -16,11 +31,10 @@
   - [Python Turtle Game: Chess](https://github.com/rexchao1/Chess.git)
     - Working two-player chess game
     - [Try it out!](https://trinket.io/python/c715f1a638)
-  
-  
+
+
 [<img align="left" alt="RexChao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RexChao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/rexchao1
 [instagram]: https://www.instagram.com/rex_chao1/
-
