@@ -2,14 +2,12 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>AI Front Desk</b>
-  - [Minnie: Insurance Calling](https://github.com/renuminnie/minnie-insurance-calls)
+  - [Minnie: Insurance Calling]
     - Auto-dials dental insurance payers and bridges in staff once a rep picks up
     - Local-first, human-in-the-loop
-    - Built with a team
-  - [Minnie: Payer Portals](https://github.com/renuminnie/minnie-payer-portals)
+  - [Minnie: Payer Portals]
     - Automates insurance eligibility checks across payer portals
     - Delta, MetLife, Cigna, Ameritas
-    - Built with a team
 
 - <b>Personal AI Agent</b>
   - Autonomous Agent Framework: Hermes
