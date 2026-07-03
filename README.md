@@ -12,9 +12,13 @@
     - Built with a team
 
 - <b>Personal AI Agent</b>
-  - Hermes: Family Assistant
-    - Solo agent that helps manage my family's calendar, events, and day-to-day
-    - Built on my own Hermes agent framework
+  - Autonomous Agent Framework: Hermes
+    - Solo agent that manages my family's calendar, events, and daily tasks
+    - Runs agents in parallel or delegates them one at a time
+    - Plugs into the terminal, web, files, and APIs (GitHub, Google, Apple)
+    - Modular skills it can pick up on the fly
+    - Remembers my preferences and household details across sessions
+    - Schedules background tasks and sends updates over Telegram
 
 - <b>Machine Learning</b>
   - [Generative Adversarial Network: HuskyBot](https://github.com/rexchao1/husky_bot.git)
