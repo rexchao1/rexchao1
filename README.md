@@ -2,12 +2,14 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>AI Front Desk</b>
-  - [Minnie: Insurance Calling]
+  - Minnie: Insurance Calling
     - Auto-dials dental insurance payers and bridges in staff once a rep picks up
-    - Local-first, human-in-the-loop
-  - [Minnie: Payer Portals]
+    - Local-first, human-in-the-loop, with PHI kept off the cloud
+    - Python, Twilio, real-time audio detection, and a local LLM parser
+  - Minnie: Payer Portals
     - Automates insurance eligibility checks across payer portals
     - Delta, MetLife, Cigna, Ameritas
+    - Python, Playwright browser automation, and pluggable payer adapters
 
 - <b>Personal AI Agent</b>
   - Autonomous Agent Framework: Hermes
