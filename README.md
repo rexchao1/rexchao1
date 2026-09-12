@@ -1,6 +1,13 @@
 <h1>Hi, I'm Rex!</h1>
 - <b>I am studying CS at UCLA, and outside of that I build anything and everything!</b>
 
+<h2>Updates!</h2>
+- <b>Check out my take on a [Software Factory](https://github.com/rexchao1/not-so-simple-software-factory) --></b>
+  - Total AI workflow pipeline
+  - Orchestrator: plans alongside you, operates the factories.
+  - Light factory: loops planning and critiquing rounds, then bubbles down into small tasks.
+  - Dark factory: decided work goes in, pull request out.
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b>AI Front Desk</b>
