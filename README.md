@@ -3,6 +3,7 @@
 
 <h2>Updates!</h2>
 - <b>Check out my take on a <a href="https://github.com/rexchao1/not-so-simple-software-factory">Software Factory</a> --></b>
+
   - Total AI workflow pipeline
   - Orchestrator: plans alongside you, operates the factories.
   - Light factory: loops planning and critiquing rounds, then bubbles down into small tasks.
