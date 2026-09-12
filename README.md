@@ -11,6 +11,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Http Live Streamer!!!<a href="https://github.com/rexchao1/fetch">Software Factory</a> --></b>
+  - Seamlessly stream or play any content from a video player web link
+  - Plays straight to a minimal macOS desktop app
+  - Skip all those online ads :)
+
 - <b>AI Front Desk</b>
   - Minnie: Insurance Calling
     - Auto-dials dental insurance payers and bridges in staff once a rep picks up
