@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Http Live Streamer!!!<a href="https://github.com/rexchao1/fetch">Software Factory</a> --></b>
+- <b>Http Live Streamer!!! <a href="https://github.com/rexchao1/fetch">Fetch</a> --></b>
   - Seamlessly stream or play any content from a video player web link
   - Plays straight to a minimal macOS desktop app
   - Skip all those online ads :)
