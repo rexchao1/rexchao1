@@ -1,4 +1,6 @@
 <h1>Hi, I'm Rex!</h1>
+- <b>I am studying CS at UCLA, and outside of that I build anything and everything!</b>
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b>AI Front Desk</b>
